@@ -88,7 +88,7 @@ Then set `DB_NAME=Exegol-Vault-Demo` in `.env` and log in with master password
 `UseTheForce!`. Six sample holocrons included (Death Star plans, Falcon nav
 computer, cantina Wi-Fi…). Switch `DB_NAME` back to `Exegol-Vault` for your real vault.
 
-## Building the desktop app (.exe)
+## Building the desktop app (.exe) [RECOMMENDED AND BETTER]
 
 ```powershell
 .venv\Scripts\python -m pip install pyinstaller pillow
@@ -113,7 +113,7 @@ setup/           database bootstrap SQL + demo data seeder
 assets/          logo and app icon
 ```
 
-## Running from VS Code
+## Running from VS Code [BORING AND NOT PRACTICAL]
 
 Open the folder, select the `.venv` interpreter (`Ctrl+Shift+P` → *Python: Select
 Interpreter*), then `F5` or run `main.py`.
