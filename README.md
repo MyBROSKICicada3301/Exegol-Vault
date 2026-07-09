@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="assets/logo.png" alt="Exegol Vault" width="320">
+  <img src="https://raw.githubusercontent.com/MyBROSKICicada3301/Exegol-Vault/main/assets/logo.png" alt="Exegol Vault" width="320">
+</div>
 
 ---
 
