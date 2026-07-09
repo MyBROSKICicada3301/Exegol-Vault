@@ -1,0 +1,25 @@
+# secrets & local state
+.env
+prefs.json
+
+# python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# build output
+build/
+dist/
+*.spec
+
+# IDE / tooling
+.claude/*
+.vscode/
+.idea/
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
